@@ -1,0 +1,15 @@
+{
+  "name": "spelkolektivet",
+  "version": "0.1.0",
+  "description": "Spelkolektivet website",
+  "main": "index.js",
+  "repository": "https://github.com/remi-boivin/express_template.git",
+  "author": "Rémi Boivin",
+  "license": "MIT",
+  "devDependencies": {
+    "husky": "^7.0.4"
+  },
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
